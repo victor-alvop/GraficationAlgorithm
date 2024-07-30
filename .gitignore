@@ -1,0 +1,17 @@
+# Ignorar archivos y carpetas generados por macOS
+
+# Archivos y carpetas de metadatos de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Iconos de archivos personalizados
+Icon?
+
+# Archivos y carpetas de la vista previa de macOS
+._*
+
+# Carpeta de caché de macOS
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
